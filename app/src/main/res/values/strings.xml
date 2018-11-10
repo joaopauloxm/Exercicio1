@@ -1,0 +1,8 @@
+<resources>
+
+        <string name="app_name">Avaliacao</string>
+        <string name="Exercicio1Activity">Exercicio 1</string>
+        <string name="Exercicio2Activity">Exercicio 2</string>
+        <string name="Exercicio3Activity">Exercicio3</string>
+
+</resources>
